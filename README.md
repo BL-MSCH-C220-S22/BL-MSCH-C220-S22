@@ -33,8 +33,9 @@
    - [Exercise-05b-Procedural-Generation](https://github.com/BL-MSCH-C220-S22/Exercise-05b-Procedural-Generation)
    - [Exercise-05c-Materials](https://github.com/BL-MSCH-C220-S22/Exercise-05c-Materials)
    - [Exercise-05c-Lighting](https://github.com/BL-MSCH-C220-S22/Exercise-05c-Lighting)
-   -->
+   <!---
    - [Exercise-05d-Networked-Game](https://github.com/BL-MSCH-C220-S22/Exercise-05d-Networked-Game)
+   --->
  - 3D RPG
    <!--
    - [Godot-3D-Template](https://github.com/BL-MSCH-C220-S22/Godot-3D-Template)
