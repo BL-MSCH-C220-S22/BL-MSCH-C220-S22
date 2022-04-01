@@ -47,4 +47,7 @@
    - [Exercise-06d-Unit-Testing](https://github.com/BL-MSCH-C220-S22/Exercise-06d-Unit-Testing)
    - [Exercise-06d-3D-Particles](https://github.com/BL-MSCH-C220-S22/Exercise-06d-3D-Particles)
    -->
+ - Demos
+   - [Juicy Brick Breaker Demo](https://github.com/BL-MSCH-C220-S22/Juicy-Breakout)
+   - [Day-Night 3D Demo](https://github.com/BL-MSCH-C220-S22/Day-Night-3D-Demo)
  - Final Projects (listed alphabetically by group)
