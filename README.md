@@ -40,9 +40,9 @@
    - [Exercise-06a-Create-a-Model](https://github.com/BL-MSCH-C220-S22/Exercise-06a-Create-a-Model)
    - [Exercise-06b-Animation](https://github.com/BL-MSCH-C220-S22/Exercise-06b-Animation)
    - [Exercise-06b-Handheld-Weapon](https://github.com/BL-MSCH-C220-S22/Exercise-06b-Handheld-Weapon)
-   <!--
    - [Exercise-06c-Dialogue](https://github.com/BL-MSCH-C220-S22/Exercise-06c-Dialogue)
    - [Exercise-06d-Unit-Testing](https://github.com/BL-MSCH-C220-S22/Exercise-06d-Unit-Testing)
+   <!--
    - [Exercise-06d-3D-Particles](https://github.com/BL-MSCH-C220-S22/Exercise-06d-3D-Particles)
    -->
  - Demos
